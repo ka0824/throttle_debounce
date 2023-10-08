@@ -2,13 +2,11 @@
 
 > **목차**
 > 
-> [1\. debounce란?](#a1)
+> [1\. debounce란?](##1-debounce란)
 > 
-> [2\. throttle이란?](#a2)
+> [2\. throttle이란?](#2-throttle이란)
 > 
-> [3\. debounce, throttle 구현하기](#a3)
-> 
-> [4\. 구현된 코드로 보기](#a4)
+> [3\. debounce, throttle 구현하기](#3-debounce-throttle-구현하기)
 
 <br />
 <hr />
