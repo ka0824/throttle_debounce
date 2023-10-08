@@ -2,7 +2,7 @@
 
 > **목차**
 > 
-> [1\. debounce란?](##1-debounce란)
+> [1\. debounce란?](#1-debounce란)
 > 
 > [2\. throttle이란?](#2-throttle이란)
 > 
